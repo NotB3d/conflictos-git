@@ -1,4 +1,5 @@
-# N@mbr@ d@sd@ VC J@@m@t@ F@rn@nd@z
-## F@ch@ 22/22/2222
+# Nombre desde VC J@imito Fern@ndez
+## Fech@ 22/22/2222
 ------------------------------
-L@ d@scr@pción @s @n@ h@rr@m@@nt@ d@sc@rs@v@ qu@@ p@rm@t@ @xpl@c@r l@s c@r@ct@r@st@c@s d@ l@s s@j@t@s
+L@ descripción es un@ herr@mient@ discursiv@ que permite explic@r l@s c@r@cterístic@s de los sujetos, de los acontecimientos que tienen lugar, de los esp@cios físicos donde se desarroll@n, incluso de l@s sens@ciones que se tienen, t@nto en situ@ciones re@les o en textos de ficción.
+
