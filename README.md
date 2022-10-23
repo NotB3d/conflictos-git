@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Nombr$ d$sd$ VC Jaimito F$rnánd$z
 ## F$cha 22/22/2222
 ------------------------------
