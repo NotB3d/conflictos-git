@@ -1,5 +1,4 @@
-# Nombre desde VC Jaimito Fernández
-## Fecha 22/22/2222
+# N@mbr@ d@sd@ VC J@@m@t@ F@rn@nd@z
+## F@ch@ 22/22/2222
 ------------------------------
-La descripción es una herramienta discursiva que permite explicar las características de los sujetos, de los acontecimientos que tienen lugar, de los espacios físicos donde se desarrollan, incluso de las sensaciones que se tienen, tanto en situaciones reales o en textos de ficción.
-
+L@ d@scr@pción @s @n@ h@rr@m@@nt@ d@sc@rs@v@ qu@@ p@rm@t@ @xpl@c@r l@s c@r@ct@r@st@c@s d@ l@s s@j@t@s
